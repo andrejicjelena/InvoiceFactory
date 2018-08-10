@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70031" started-at="2018-08-10T15:23:37Z" finished-at="2018-08-10T15:24:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70031" started-at="2018-08-10T15:23:37Z" finished-at="2018-08-10T15:24:47Z">
+      <class name="tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LoginTest@167c1fc]" name="setUp" is-config="true" duration-ms="16404" started-at="2018-08-10T15:23:37Z" finished-at="2018-08-10T15:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="correctEmailCapsLockPass()[pri:0, instance:tests.LoginTest@167c1fc]" name="correctEmailCapsLockPass" duration-ms="12527" started-at="2018-08-10T15:23:54Z" finished-at="2018-08-10T15:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctEmailCapsLockPass -->
+        <test-method status="PASS" signature="correctEmailEmptyPass()[pri:1, instance:tests.LoginTest@167c1fc]" name="correctEmailEmptyPass" duration-ms="2837" started-at="2018-08-10T15:24:06Z" finished-at="2018-08-10T15:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctEmailEmptyPass -->
+        <test-method status="PASS" signature="emptyEmailEmptyPass()[pri:2, instance:tests.LoginTest@167c1fc]" name="emptyEmailEmptyPass" duration-ms="2507" started-at="2018-08-10T15:24:09Z" finished-at="2018-08-10T15:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyEmailEmptyPass -->
+        <test-method status="PASS" signature="emptyEmailCorrectPass()[pri:3, instance:tests.LoginTest@167c1fc]" name="emptyEmailCorrectPass" duration-ms="2636" started-at="2018-08-10T15:24:12Z" finished-at="2018-08-10T15:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyEmailCorrectPass -->
+        <test-method status="PASS" signature="invalidEmailEmptyPass()[pri:4, instance:tests.LoginTest@167c1fc]" name="invalidEmailEmptyPass" duration-ms="3101" started-at="2018-08-10T15:24:14Z" finished-at="2018-08-10T15:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailEmptyPass -->
+        <test-method status="PASS" signature="correctEmailIncorrectPass()[pri:5, instance:tests.LoginTest@167c1fc]" name="correctEmailIncorrectPass" duration-ms="4632" started-at="2018-08-10T15:24:17Z" finished-at="2018-08-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctEmailIncorrectPass -->
+        <test-method status="PASS" signature="emptyEmailShortPass()[pri:6, instance:tests.LoginTest@167c1fc]" name="emptyEmailShortPass" duration-ms="2477" started-at="2018-08-10T15:24:22Z" finished-at="2018-08-10T15:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyEmailShortPass -->
+        <test-method status="PASS" signature="emptyEmailLongPass()[pri:7, instance:tests.LoginTest@167c1fc]" name="emptyEmailLongPass" duration-ms="4157" started-at="2018-08-10T15:24:25Z" finished-at="2018-08-10T15:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyEmailLongPass -->
+        <test-method status="PASS" signature="invalidEmailcorrectPass()[pri:8, instance:tests.LoginTest@167c1fc]" name="invalidEmailcorrectPass" duration-ms="4135" started-at="2018-08-10T15:24:29Z" finished-at="2018-08-10T15:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailcorrectPass -->
+        <test-method status="PASS" signature="invalidEmailShortPass()[pri:9, instance:tests.LoginTest@167c1fc]" name="invalidEmailShortPass" duration-ms="3695" started-at="2018-08-10T15:24:33Z" finished-at="2018-08-10T15:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailShortPass -->
+        <test-method status="PASS" signature="invalidEmailLongPass()[pri:10, instance:tests.LoginTest@167c1fc]" name="invalidEmailLongPass" duration-ms="4843" started-at="2018-08-10T15:24:37Z" finished-at="2018-08-10T15:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailLongPass -->
+        <test-method status="PASS" signature="capsLockEmailCorrectPass()[pri:11, instance:tests.LoginTest@167c1fc]" name="capsLockEmailCorrectPass" duration-ms="5557" started-at="2018-08-10T15:24:41Z" finished-at="2018-08-10T15:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capsLockEmailCorrectPass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginTest@167c1fc]" name="tearDown" is-config="true" duration-ms="343" started-at="2018-08-10T15:24:47Z" finished-at="2018-08-10T15:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
